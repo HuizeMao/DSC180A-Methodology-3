@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Huize Mao
-h2mao@ucsd.edu
+Huize Mao, Bhagya Ram
+
